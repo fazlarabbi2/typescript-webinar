@@ -3,7 +3,7 @@
 1. What is TypeScript?
 
    - [ ] A JavaScript runtime environment
-   - [ ] A programming language that compiles to JavaScript
+   - [x] A programming language that compiles to JavaScript
    - [ ] A JavaScript framework
    - [ ] A JavaScript library
 
@@ -11,7 +11,7 @@
 
    - [ ] Google
    - [ ] Facebook
-   - [ ] Microsoft
+   - [x] Microsoft
    - [ ] Mozilla
 
 3. What is the file extension for TypeScript files?
